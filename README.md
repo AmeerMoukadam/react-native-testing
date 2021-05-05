@@ -1,2 +1,2 @@
 # react-native-testing
- This repository is used for implementing and testing features in React Native.
+ This repository is a testing ground for React Native Core Components and APIs.
